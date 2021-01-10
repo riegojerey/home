@@ -50,7 +50,7 @@ const about = {
   imageLink: require("../editable-stuff/avatar.jpg"),
   imageSize: 375,
   message:
-    "My name is Riego Jeremy Terte. I’m a fresh college graduate at National University, Manila (PH) with a Bachelor's degree in Electronics Engineering. I'm passionate about Electronics, Automation, 3D Printing, Programming and my goal is to pursue this passion within the field of Engineering. In my free time I 3D print useless things hahaha.",
+    "My name is Riego Jeremy Terte. I’m a fresh college graduate at National University, Manila (PH) with a Bachelor's degree in Electronics Engineering. I'm passionate about Electronics, Automation, 3D Printing, Programming and my goal is to pursue this passion within the field of Engineering. In my free time I 3D print useless things.",
   resume: require("../editable-stuff/resume.pdf"),
 };
 
