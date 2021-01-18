@@ -98,6 +98,7 @@ const skills = {
     { name: "MATLAB", value: 70 },
     { name: "C/C++", value: 80 },
     { name: "Arduino", value: 90 },
+    { name: "GNU/Linux", value: 85 },
     { name: "Raspberry Pi", value: 75 },
     { name: "CAD Softwares", value: 85 },
     { name: "3D Printing", value: 90 },
